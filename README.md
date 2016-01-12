@@ -22,11 +22,11 @@
 
 > Some usage instructions
 
-Navigate to <link> to see a summary dashboard containing all of your clients!
+Navigate to http://friend-ly.herokuapp.com/ to see a summary dashboard containing all of your clients!
 
 Click on any client to drill down on the Client's information. You will see bio data as well as curated content based on the Client's interests. 
 
-If you are not seeing one you would expect, you can click on the '+' sign at the bottom and fill out the subsequent form.
+If you are not seeing a client that you would expect to see on the dashboard, you can click on the '+' sign at the bottom and fill out the subsequent form.
 
 Moving forward you will recieve text notifications as events important to your client approach, such as birthdays or gameday for their favorite team.
 
