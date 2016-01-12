@@ -52,7 +52,20 @@ npm install
 
 ### Roadmap
 
-View the project roadmap [here](/issues)
+View detailed project roadmap [here](/issues)
+
+
+ - Broad roadmap
+       - More API modules to inform client feed
+       - Additional event driven push notifications based on client information via twilio - currently only sending messages upon adding a client
+       - Allow salesperson to log notes on client
+       - Sigunup/login Authentication for Sales users (currently app hardcodes to salesperson with id 1)
+       - Responsive Design - potentially make work for mobile
+       - Merge methods betweem user/client controller/model, as both interact with the same client table
+       - Allow deletion of clients
+       - Track interactions between client/sales
+       - Allow salespeople to load in their own interests, and create algo to match salespeople to clients
+       - Issues
 
 
 ## Contributing
